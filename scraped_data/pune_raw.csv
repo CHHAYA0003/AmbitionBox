@@ -1,0 +1,221 @@
+company_name,rating,bio,salary,job,founded_in
+TCS,3.3,IT Services & Consulting | Pune +438 other locations,9.7L,2.5k,1968 (58 yrs old)
+Accenture,3.7,IT Services & Consulting | Pune +254 other locations,6.5L,36.7k,1989 (37 yrs old)
+Wipro,3.6,IT Services & Consulting | Pune +370 other locations,4.8L,5.9k,1945 (81 yrs old)
+Cognizant,3.6,IT Services & Consulting | Pune +229 other locations,6L,755,1994 (32 yrs old)
+Capgemini,3.7,IT Services & Consulting | Pune +184 other locations,4.8L,1.7k,1967 (59 yrs old)
+HDFC Bank,3.8,Banking | Pune +1821 other locations,1.5L,259,1994 (32 yrs old)
+Infosys,3.5,IT Services & Consulting | Pune +246 other locations,5.2L,2.6k,
+ICICI Bank,4.0,Banking | Pune +1436 other locations,1.5L,21,1994 (32 yrs old)
+HCLTech,3.4,IT Services & Consulting | Pune +226 other locations,3.7L,165,
+Tech Mahindra,3.4,IT Services & Consulting | Pune +331 other locations,2.8L,356,1986 (40 yrs old)
+Genpact,3.6,IT Services & Consulting | Pune +182 other locations,2.3L,671,1997 (29 yrs old)
+Teleperformance,3.8,BPO | Pune +254 other locations,95.7k,1.2k,1978 (48 yrs old)
+Axis Bank,3.6,Banking | Pune +1498 other locations,1L,208,1993 (33 yrs old)
+Jio,4.4,Telecom | Pune +1893 other locations,62.1k,3,2018 (8 yrs old)
+Concentrix Corporation,3.6,BPO | Pune +179 other locations,1.3L,79,1983 (43 yrs old)
+Amazon,3.9,Internet | Pune +518 other locations,1.5L,1.6k,1994 (32 yrs old)
+iEnergizer,4.6,BPO | Pune +51 other locations,23.9k,69,
+Reliance Retail,3.9,Retail | Pune +1150 other locations,74.4k,157,2006 (20 yrs old)
+LTIMindtree,3.6,IT Services & Consulting | Pune +146 other locations,1.9L,444,1997 (29 yrs old)
+IBM,3.9,IT Services & Consulting | Pune +160 other locations,2.1L,293,1911 (115 yrs old)
+HDB Financial Services,3.9,NBFC | Pune +1089 other locations,50k,191,2007 (19 yrs old)
+Larsen & Toubro Limited,3.9,Engineering & Construction | Pune +754 other locations,,,
+Deloitte,3.7,Management Consulting | Pune +187 other locations,2.5L,1.4k,1845 (181 yrs old)
+Kotak Mahindra Bank,3.6,Banking | Pune +681 other locations,86.8k,67,
+Reliance Industries,4.0,Oil & Gas | Pune +812 other locations,72.4k,60,1977 (49 yrs old)
+Vodafone Idea,3.9,Telecom | Pune +704 other locations,50.3k,27,2018 (8 yrs old)
+Bharti Airtel,3.8,Telecom | Pune +789 other locations,48.9k,112,1952 (74 yrs old)
+BYJU'S,3.2,EdTech | Pune +321 other locations,53.6k,,2011 (15 yrs old)
+WNS,3.3,IT Services & Consulting | Pune +65 other locations,68.7k,79,1996 (30 yrs old)
+Tata Motors,4.1,Automobile | Pune +506 other locations,42.5k,172,1945 (81 yrs old)
+IDFC FIRST Bank,3.9,Banking | Pune +710 other locations,48.7k,31,
+Ernst & Young,3.4,Management Consulting | Pune +132 other locations,,,
+IndusInd Bank,3.4,Banking | Pune +787 other locations,51.7k,146,
+AU Small Finance Bank,3.9,Banking | Pune +782 other locations,28.8k,45,1996 (30 yrs old)
+Flipkart,3.9,Internet | Pune +560 other locations,53.7k,171,2007 (19 yrs old)
+Bajaj Finserv,3.9,NBFC | Pune +1161 other locations,30.1k,4,2007 (19 yrs old)
+Muthoot FinCorp,4.5,NBFC | Pune +1087 other locations,9k,39,
+PwC,3.3,Management Consulting | Pune +132 other locations,1.2L,874,1880 (146 yrs old)
+Mahindra & Mahindra,4.0,Automobile | Pune +562 other locations,,,
+Infosys BPM,3.5,BPO | Pune +95 other locations,72.6k,101,2002 (24 yrs old)
+DXC Technology,3.6,IT Services & Consulting | Pune +133 other locations,72.4k,195,2017 (9 yrs old)
+HDFC Life,3.9,Insurance | Pune +698 other locations,33.2k,123,
+Maruti Suzuki,4.2,Automobile | Pune +482 other locations,34.4k,698,1981 (45 yrs old)
+Bandhan Bank,3.7,Banking | Pune +995 other locations,25.4k,14,
+Conneqt Business Solutions,3.6,BPO | Pune +267 other locations,26.5k,361,2002 (24 yrs old)
+Mphasis,3.3,IT Services & Consulting | Pune +63 other locations,73.2k,43,1998 (28 yrs old)
+Yes Bank,3.7,Banking | Pune +540 other locations,43.3k,157,2004 (22 yrs old)
+Tata Steel,4.0,Iron & Steel | Pune +228 other locations,33.9k,,1907 (119 yrs old)
+Quess,3.8,Recruitment | Pune +740 other locations,30.4k,9,2007 (19 yrs old)
+Startek,3.1,BPO | Pune +107 other locations,24.4k,136,2017 (9 yrs old)
+Asian Paints,4.0,Chemicals | Pune +547 other locations,25.2k,56,
+UltraTech Cement,4.1,Building Material | Pune +534 other locations,24.1k,24,1983 (43 yrs old)
+Paytm,3.2,FinTech | Pune +418 other locations,34k,490,
+Shriram Finance,4.0,NBFC | Pune +1110 other locations,15.2k,8,1979 (47 yrs old)
+Bajaj Finance,3.9,NBFC | Pune +965 other locations,22.7k,5.1k,1987 (39 yrs old)
+Equitas Small Finance Bank,4.4,Banking | Pune +479 other locations,13.2k,13,
+Sutherland Global Services,3.4,BPO | Pune +82 other locations,34.4k,299,
+EXL Service,3.6,Analytics & KPO | Pune +63 other locations,44.1k,1.4k,
+Cipla,4.1,Pharma | Pune +291 other locations,26k,69,1935 (91 yrs old)
+Samsung,3.9,Consumer Electronics & Appliances | Pune +578 other locations,26.3k,28,1969 (57 yrs old)
+Ericsson,3.9,Telecom | Pune +162 other locations,42.6k,67,
+Wells Fargo,3.7,Financial Services | Pune +28 other locations,55.2k,178,
+Dr. Reddy's,4.0,Pharma | Pune +213 other locations,,,
+Optum Global Solutions,4.0,IT Services & Consulting | Pune +68 other locations,48.4k,76,2002 (24 yrs old)
+Delhivery,3.8,Logistics | Pune +751 other locations,21.2k,171,2011 (15 yrs old)
+ICICI Prudential Life Insurance,4.0,Insurance | Pune +505 other locations,22.9k,508,2000 (26 yrs old)
+JSW Steel,3.9,Iron & Steel | Pune +193 other locations,30.3k,105,1982 (44 yrs old)
+JPMorgan Chase & Co.,3.8,Financial Services | Pune +55 other locations,,,
+HGS,3.7,BPO | Pune +121 other locations,20.9k,19,2000 (26 yrs old)
+Jana Small Finance Bank,3.8,Banking | Pune +419 other locations,14.1k,55,2006 (20 yrs old)
+Sun Pharmaceutical Industries,4.1,Pharma | Pune +264 other locations,23.4k,289,
+Ujjivan Small Finance Bank,4.0,Banking | Pune +533 other locations,13k,138,2017 (9 yrs old)
+Amazon Development Centre India,3.8,Internet | Pune +146 other locations,,,
+Hexaware Technologies,3.4,IT Services & Consulting | Pune +67 other locations,53.2k,593,1990 (36 yrs old)
+Lupin,4.1,Pharma | Pune +202 other locations,22.5k,32,
+L&T Construction,4.0,Engineering & Construction | Pune +433 other locations,,,
+Zydus Lifesciences,3.9,Pharma | Pune +176 other locations,19.9k,20,1952 (74 yrs old)
+Ekart Logistics,3.9,Logistics | Pune +736 other locations,15.8k,,2009 (17 yrs old)
+Hindustan Unilever,4.2,FMCG | Pune +531 other locations,20k,41,1872 (154 yrs old)
+KPMG India,3.4,Management Consulting | Pune +111 other locations,64.5k,56,1993 (33 yrs old)
+ITC,3.9,FMCG | Pune +375 other locations,24.4k,76,1910 (116 yrs old)
+Axis Max Life Insurance,4.0,Insurance | Pune +494 other locations,20k,145,2000 (26 yrs old)
+Megha Engineering & Infrastructures,3.9,Engineering & Construction | Pune +405 other locations,,,
+Tata Projects,4.2,Engineering & Construction | Pune +284 other locations,22k,29,
+Coforge,3.2,IT Services & Consulting | Pune +104 other locations,48.6k,122,
+FIS,3.8,FinTech | Pune +61 other locations,38.7k,108,
+Bajaj Life Insurance,3.9,Insurance | Pune +607 other locations,,,
+L&T Technology Services,3.1,IT Services & Consulting | Pune +93 other locations,,,
+Cholamandalam Investment & Finance,3.8,Financial Services | Pune +840 other locations,,,
+IIFL Finance,4.0,NBFC | Pune +800 other locations,14.1k,67,1995 (31 yrs old)
+Oracle,3.5,Software Product | Pune +56 other locations,62.4k,1.1k,1977 (49 yrs old)
+Indian Army,4.7,Defence & Aerospace | Pune +364 other locations,9.5k,,1895 (131 yrs old)
+Muthoot Finance,3.7,NBFC | Pune +784 other locations,13k,82,
+Omega Healthcare,3.8,BPO | Pune +69 other locations,26.3k,116,2003 (23 yrs old)
+JLL,4.1,Real Estate | Pune +85 other locations,24.2k,290,1999 (27 yrs old)
+eClerx,3.1,IT Services & Consulting | Pune +32 other locations,31.7k,236,2000 (26 yrs old)
+HCL Group,3.5,IT Services & Consulting | Pune +97 other locations,3.7L,165,
+Piramal Finance,4.2,NBFC | Pune +424 other locations,12.6k,7,10k-50k
+Virtusa Consulting Services,3.7,IT Services & Consulting | Pune +55 other locations,56.3k,1.3k,1996 (30 yrs old)
+DMart,3.9,Retail | Pune +246 other locations,18.3k,181,2002 (24 yrs old)
+HSBC Group,3.9,Financial Services | Pune +63 other locations,42.6k,130,1865 (161 yrs old)
+Indiamart Intermesh,3.5,Internet | Pune +172 other locations,20.4k,525,1996 (30 yrs old)
+Udaan,3.9,Internet | Pune +368 other locations,15.6k,5,
+SMFG India Credit,3.9,NBFC | Pune +592 other locations,11.1k,80,2007 (19 yrs old)
+Aurobindo Pharma,4.0,Pharma | Pune +115 other locations,20.7k,23,1986 (40 yrs old)
+Access Healthcare,3.7,BPO | Pune +64 other locations,28.4k,478,2011 (15 yrs old)
+Siemens,3.9,Industrial Automation | Pune +152 other locations,33.5k,141,
+BigBasket,3.9,Internet | Pune +138 other locations,19.1k,100,
+Manappuram Finance,3.9,NBFC | Pune +647 other locations,9k,7,1949 (77 yrs old)
+Firstsource Solutions,3.5,BPO | Pune +74 other locations,24k,135,2001 (25 yrs old)
+Shapoorji Pallonji Group,4.1,Engineering & Construction | Pune +188 other locations,,,
+Tata Capital,4.0,NBFC | Pune +438 other locations,15.6k,3.1k,2007 (19 yrs old)
+GlobalLogic,3.5,IT Services & Consulting | Pune +60 other locations,40.5k,45,2000 (26 yrs old)
+ICICI Lombard General Insurance Company,3.5,Insurance | Pune +311 other locations,,,
+Standard Chartered,3.6,Banking | Pune +68 other locations,42k,,1853 (173 yrs old)
+Mahindra Finance,3.9,NBFC | Pune +730 other locations,12k,383,1991 (35 yrs old)
+PolicyBazaar,3.7,Internet | Pune +149 other locations,17.1k,412,
+Apollo Hospitals,4.1,Healthcare | Pune +229 other locations,16.3k,134,1983 (43 yrs old)
+Bosch Global Software Technologies,3.7,IT Services & Consulting | Pune +47 other locations,39.9k,13,1997 (29 yrs old)
+UST,3.7,IT Services & Consulting | Pune +50 other locations,39.4k,137,
+Ashok Leyland,4.0,Automobile | Pune +255 other locations,18.6k,,1948 (78 yrs old)
+Citicorp,3.7,Financial Services | Pune +68 other locations,51.8k,,1997 (29 yrs old)
+Swiggy,3.7,Internet | Pune +230 other locations,22.8k,274,2014 (12 yrs old)
+Hero MotoCorp,4.1,Automobile | Pune +364 other locations,15.7k,2,1984 (42 yrs old)
+Cyient,3.6,IT Services & Consulting | Pune +48 other locations,27.4k,76,1991 (35 yrs old)
+CGI Group,4.0,IT Services & Consulting | Pune +43 other locations,45.2k,642,1976 (50 yrs old)
+SBI Cards & Payment Services,3.6,Financial Services | Pune +435 other locations,,,
+Kalpataru Projects International,4.2,Engineering & Construction | Pune +321 other locations,13.6k,1,1981 (45 yrs old)
+JustDial,3.5,Internet | Pune +229 other locations,15.4k,51,1996 (30 yrs old)
+BNY,3.7,Financial Services | Pune +25 other locations,30.8k,1,1784 (242 yrs old)
+IQVIA,3.7,Clinical Research | Pune +63 other locations,30.6k,19,10k-50k
+NTT Data,3.8,IT Services & Consulting | Pune +79 other locations,35.8k,121,1988 (38 yrs old)
+SBI Life Insurance Company,3.7,Insurance | Pune +655 other locations,11.7k,5,2001 (25 yrs old)
+Nagarjuna Construction Company,4.0,Engineering & Construction | Pune +295 other locations,12k,10,1998 (28 yrs old)
+CBRE,4.1,Real Estate | Pune +91 other locations,18.6k,17,1906 (120 yrs old)
+TVS Motor,3.9,Automobile | Pune +349 other locations,15.8k,64,1979 (47 yrs old)
+Schneider Electric,4.2,Industrial Automation | Pune +119 other locations,24.3k,24,1999 (27 yrs old)
+Persistent Systems,3.6,IT Services & Consulting | Pune +41 other locations,44.5k,229,
+Atos,3.8,IT Services & Consulting | Pune +49 other locations,34k,84,2000 (26 yrs old)
+State Bank of India,3.8,Banking | Pune +617 other locations,11.5k,10,1806 (220 yrs old)
+vivo,4.1,Consumer Electronics & Appliances | Pune +414 other locations,12.9k,10,2009 (17 yrs old)
+Ecom Express,4.0,Logistics | Pune +775 other locations,9.6k,,2012 (14 yrs old)
+Eviden,3.6,IT Services & Consulting | Pune +39 other locations,28k,8,1k-5k
+KEC International,4.0,Engineering & Construction | Pune +313 other locations,13.4k,4,1945 (81 yrs old)
+Amdocs,3.6,Software Product | Pune +23 other locations,37.4k,11,1982 (44 yrs old)
+JBM Group,3.9,Auto Components | Pune +117 other locations,14k,41,
+Nagarro,3.9,IT Services & Consulting | Pune +49 other locations,32k,960,1996 (30 yrs old)
+Varun Beverages,4.0,Beverage | Pune +379 other locations,11.9k,36,1995 (31 yrs old)
+ITC Infotech,3.7,IT Services & Consulting | Pune +67 other locations,29.5k,84,2000 (26 yrs old)
+Home Credit Finance,4.0,NBFC | Pune +136 other locations,9.4k,104,2012 (14 yrs old)
+Bosch,4.1,Auto Components | Pune +130 other locations,20.7k,239,1886 (140 yrs old)
+Randstad,3.7,Recruitment | Pune +352 other locations,16.4k,9,1992 (34 yrs old)
+EY Global Delivery Services ( EY GDS),3.5,IT Services & Consulting | Pune +56 other locations,,,
+Hewlett Packard Enterprise,4.1,IT Services & Consulting | Pune +103 other locations,27.1k,218,2015 (11 yrs old)
+Mahindra Logistics,3.7,Logistics | Pune +233 other locations,2.8L,356,1986 (40 yrs old)
+Utkarsh Small Finance Bank,3.6,Banking | Pune +407 other locations,10.7k,21,2009 (17 yrs old)
+L&T Finance,3.9,NBFC | Pune +633 other locations,,,
+Aditya Birla Fashion and Retail,4.1,Fashion & Textile | Pune +292 other locations,13.1k,78,
+OPPO,3.9,Consumer Electronics & Appliances | Pune +410 other locations,11.8k,9,2004 (22 yrs old)
+Dell,3.8,Consumer Electronics & Appliances | Pune +117 other locations,28.8k,19,1984 (42 yrs old)
+CARS24,3.4,Internet | Pune +173 other locations,,,
+Havells,3.9,Electrical Equipment | Pune +260 other locations,15.6k,31,1983 (43 yrs old)
+Intas Pharmaceuticals,4.1,Pharma | Pune +148 other locations,17.3k,53,1977 (49 yrs old)
+R1 RCM,3.8,BPO | Pune +46 other locations,21.2k,151,2007 (19 yrs old)
+Tata AIA Life Insurance,3.9,Insurance | Pune +442 other locations,14.1k,689,2001 (25 yrs old)
+Hyundai Motor India Limited,4.1,Automobile | Pune +287 other locations,13.8k,4,1967 (59 yrs old)
+Deutsche Bank,3.8,Banking | Pune +42 other locations,36k,398,1870 (156 yrs old)
+Hetero,3.9,Pharma | Pune +67 other locations,15k,144,
+Motilal Oswal Financial Services,3.7,Financial Services | Pune +168 other locations,12.9k,40,
+Team Lease,3.9,Recruitment | Pune +396 other locations,16k,,2016 (10 yrs old)
+Berger Paints,3.7,Chemicals | Pune +353 other locations,10k,114,
+VE Commercial Vehicles,3.9,Automobile | Pune +179 other locations,13.9k,8,2008 (18 yrs old)
+Lenskart,3.3,Internet | Pune +240 other locations,13.2k,122,
+Thermax Limited,4.2,Industrial Machinery | Pune +250 other locations,,,
+Bajaj Auto,3.8,Automobile | Pune +317 other locations,14.5k,,1945 (81 yrs old)
+Macleods Pharmaceuticals,3.7,Pharma | Pune +133 other locations,15.5k,10,1986 (40 yrs old)
+Aakash Educational Services,3.2,Education & Training | Pune +244 other locations,13.6k,66,1988 (38 yrs old)
+Kogta Financial India Limited,4.7,NBFC | Pune +259 other locations,1.8k,115,1996 (30 yrs old)
+Jubilant Foods Works,3.7,Hospitality | Pune +262 other locations,9.2k,189,1995 (31 yrs old)
+LG Electronics,3.9,Consumer Electronics & Appliances | Pune +298 other locations,11k,,1958 (68 yrs old)
+Royal Enfield,4.2,Automobile | Pune +373 other locations,14.8k,20,1901 (125 yrs old)
+Hindalco Industries,4.2,Metals & Mining | Pune +127 other locations,12.4k,5,1958 (68 yrs old)
+Jindal Steel Limited,3.9,Iron & Steel | Pune +172 other locations,15.3k,24,1979 (47 yrs old)
+HDFC Ergo General Insurance,4.0,Insurance | Pune +324 other locations,12k,10,2002 (24 yrs old)
+John Deere,4.0,Industrial Machinery | Pune +155 other locations,15.2k,1,2001 (25 yrs old)
+Tata Communications,3.9,Telecom | Pune +102 other locations,23.4k,34,1986 (40 yrs old)
+DCB Bank,3.8,Banking | Pune +341 other locations,9.4k,8,
+State Street Corporation,3.5,Financial Services | Pune +34 other locations,31.3k,9,1792 (234 yrs old)
+RBL Bank,3.5,Banking | Pune +284 other locations,18.3k,45,1943 (83 yrs old)
+Cummins,4.3,Industrial Machinery | Pune +114 other locations,15.6k,8,1919 (107 yrs old)
+Oyo Rooms,3.1,Internet | Pune +121 other locations,14.4k,129,2012 (14 yrs old)
+Pidilite Industries,4.2,Chemicals | Pune +312 other locations,11.4k,,
+Alembic Pharmaceuticals,3.9,Pharma | Pune +187 other locations,15.3k,69,1907 (119 yrs old)
+Reliance Communications,4.0,Telecom | Pune +467 other locations,9.6k,,2002 (24 yrs old)
+Bank of America,4.1,Banking | Pune +35 other locations,28.1k,,1998 (28 yrs old)
+Carelon Global Solutions,3.9,IT Services & Consulting | Pune +21 other locations,26.6k,21,10k-50k
+Publicis Sapient,3.4,IT Services & Consulting | Pune +46 other locations,30.9k,257,
+Viatris,4.1,Pharma | Pune +81 other locations,14.2k,4,
+PVR INOX,3.9,Media & Entertainment | Pune +150 other locations,,,
+Subros,3.8,Auto Components | Pune +88 other locations,12.5k,1,1985 (41 yrs old)
+XpressBees,4.2,Logistics | Pune +474 other locations,8.2k,12,2015 (11 yrs old)
+American Express,4.1,Financial Services | Pune +53 other locations,24.5k,146,1850 (176 yrs old)
+Automatic Data Processing (ADP),3.9,Software Product | Pune +40 other locations,,,
+PNB MetLife,3.4,Insurance | Pune +424 other locations,8k,15,2001 (25 yrs old)
+Kyndryl,3.9,IT Services & Consulting | Pune +37 other locations,26.1k,35,
+Escorts Kubota Limited,4.1,Automobile | Pune +155 other locations,13.3k,3,
+Aditya Birla Sun Life Insurance,4.0,Insurance | Pune +488 other locations,9.9k,,2000 (26 yrs old)
+Aditya Birla Capital,3.8,NBFC | Pune +338 other locations,14.1k,1,2017 (9 yrs old)
+Grasim Industries,4.0,Building Material | Pune +241 other locations,12.7k,4,1947 (79 yrs old)
+Maersk,4.0,Logistics | Pune +49 other locations,18.9k,31,
+Synechron,3.5,IT Services & Consulting | Pune +32 other locations,27.9k,58,2001 (25 yrs old)
+Glenmark Pharmaceuticals,3.8,Pharma | Pune +184 other locations,12.1k,128,1977 (49 yrs old)
+Birlasoft,3.5,IT Services & Consulting | Pune +50 other locations,29.7k,444,1995 (31 yrs old)
+Godrej & Boyce Manufacturing,3.9,Consumer Electronics & Appliances | Pune +165 other locations,,,
+Dabur,3.8,FMCG | Pune +320 other locations,8.8k,23,1884 (142 yrs old)
+Samvardhana Motherson Group,3.7,Auto Components | Pune +93 other locations,12.1k,13,1986 (40 yrs old)
+Kotak Mahindara Life Insurance,3.5,Insurance | Pune +257 other locations,12.6k,194,2001 (25 yrs old)
+Cogent E Services,3.2,BPO | Pune +55 other locations,10.3k,1,2004 (22 yrs old)
+Altruist Technologies,4.4,BPO | Pune +44 other locations,8.2k,8,2005 (21 yrs old)
+JK Cement,4.0,Building Material | Pune +326 other locations,10k,1,1975 (51 yrs old)

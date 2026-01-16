@@ -6,8 +6,6 @@ venv/
 instance/
 *.db
 .DS_Store
-*.csv
-scraped_data/
 Flask
 gunicorn
 pandas

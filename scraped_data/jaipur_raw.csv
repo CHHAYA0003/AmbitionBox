@@ -1,0 +1,221 @@
+company_name,rating,bio,salary,job,founded_in
+TCS,3.3,IT Services & Consulting | Jaipur +438 other locations,9.7L,2.6k,1968 (58 yrs old)
+Accenture,3.7,IT Services & Consulting | Jaipur +254 other locations,6.5L,36.7k,1989 (37 yrs old)
+Wipro,3.6,IT Services & Consulting | Jaipur +370 other locations,4.8L,5.9k,1945 (81 yrs old)
+Capgemini,3.7,IT Services & Consulting | Jaipur +184 other locations,4.8L,1.7k,1967 (59 yrs old)
+HDFC Bank,3.8,Banking | Jaipur +1821 other locations,1.5L,259,1994 (32 yrs old)
+Infosys,3.5,IT Services & Consulting | Jaipur +246 other locations,5.2L,2.6k,
+ICICI Bank,4.0,Banking | Jaipur +1436 other locations,1.5L,21,1994 (32 yrs old)
+HCLTech,3.4,IT Services & Consulting | Jaipur +226 other locations,3.7L,165,
+Tech Mahindra,3.4,IT Services & Consulting | Jaipur +331 other locations,2.8L,356,1986 (40 yrs old)
+Genpact,3.6,IT Services & Consulting | Jaipur +182 other locations,2.3L,671,1997 (29 yrs old)
+Teleperformance,3.8,BPO | Jaipur +254 other locations,95.7k,1.2k,1978 (48 yrs old)
+Axis Bank,3.6,Banking | Jaipur +1498 other locations,1L,208,1993 (33 yrs old)
+Jio,4.4,Telecom | Jaipur +1893 other locations,62.1k,3,2018 (8 yrs old)
+Concentrix Corporation,3.6,BPO | Jaipur +179 other locations,1.3L,79,1983 (43 yrs old)
+Amazon,3.9,Internet | Jaipur +518 other locations,1.5L,1.6k,1994 (32 yrs old)
+iEnergizer,4.6,BPO | Jaipur +51 other locations,23.9k,69,
+Reliance Retail,3.9,Retail | Jaipur +1150 other locations,74.4k,157,2006 (20 yrs old)
+LTIMindtree,3.6,IT Services & Consulting | Jaipur +146 other locations,1.9L,446,1997 (29 yrs old)
+IBM,3.9,IT Services & Consulting | Jaipur +160 other locations,2.1L,293,1911 (115 yrs old)
+HDB Financial Services,3.9,NBFC | Jaipur +1089 other locations,50k,191,2007 (19 yrs old)
+Larsen & Toubro Limited,3.9,Engineering & Construction | Jaipur +754 other locations,,,
+Deloitte,3.7,Management Consulting | Jaipur +187 other locations,2.5L,1.4k,1845 (181 yrs old)
+Kotak Mahindra Bank,3.6,Banking | Jaipur +681 other locations,86.8k,67,
+Reliance Industries,4.0,Oil & Gas | Jaipur +812 other locations,72.4k,60,1977 (49 yrs old)
+Vodafone Idea,3.9,Telecom | Jaipur +704 other locations,50.3k,27,2018 (8 yrs old)
+Bharti Airtel,3.8,Telecom | Jaipur +789 other locations,48.9k,112,1952 (74 yrs old)
+BYJU'S,3.2,EdTech | Jaipur +321 other locations,53.6k,,2011 (15 yrs old)
+WNS,3.3,IT Services & Consulting | Jaipur +65 other locations,68.7k,79,1996 (30 yrs old)
+Tata Motors,4.1,Automobile | Jaipur +506 other locations,42.5k,172,1945 (81 yrs old)
+IDFC FIRST Bank,3.9,Banking | Jaipur +710 other locations,48.7k,31,
+Ernst & Young,3.4,Management Consulting | Jaipur +132 other locations,,,
+IndusInd Bank,3.4,Banking | Jaipur +787 other locations,51.7k,146,
+AU Small Finance Bank,3.9,Banking | Jaipur +782 other locations,28.8k,45,1996 (30 yrs old)
+Flipkart,3.9,Internet | Jaipur +560 other locations,53.7k,171,2007 (19 yrs old)
+Bajaj Finserv,3.9,NBFC | Jaipur +1161 other locations,30.1k,4,2007 (19 yrs old)
+Muthoot FinCorp,4.5,NBFC | Jaipur +1087 other locations,9k,39,
+PwC,3.3,Management Consulting | Jaipur +132 other locations,1.2L,874,1880 (146 yrs old)
+Mahindra & Mahindra,4.0,Automobile | Jaipur +562 other locations,,,
+Infosys BPM,3.5,BPO | Jaipur +95 other locations,72.6k,102,2002 (24 yrs old)
+DXC Technology,3.6,IT Services & Consulting | Jaipur +133 other locations,72.4k,197,2017 (9 yrs old)
+HDFC Life,3.9,Insurance | Jaipur +698 other locations,33.2k,123,
+Maruti Suzuki,4.2,Automobile | Jaipur +482 other locations,34.4k,698,1981 (45 yrs old)
+Bandhan Bank,3.7,Banking | Jaipur +995 other locations,25.4k,14,
+Conneqt Business Solutions,3.6,BPO | Jaipur +267 other locations,26.5k,361,2002 (24 yrs old)
+Mphasis,3.3,IT Services & Consulting | Jaipur +63 other locations,73.2k,43,1998 (28 yrs old)
+Yes Bank,3.7,Banking | Jaipur +540 other locations,43.3k,157,2004 (22 yrs old)
+Tata Steel,4.0,Iron & Steel | Jaipur +228 other locations,33.9k,,1907 (119 yrs old)
+Quess,3.8,Recruitment | Jaipur +740 other locations,30.4k,9,2007 (19 yrs old)
+Startek,3.1,BPO | Jaipur +107 other locations,24.4k,136,2017 (9 yrs old)
+Asian Paints,4.0,Chemicals | Jaipur +547 other locations,25.2k,60,
+UltraTech Cement,4.1,Building Material | Jaipur +534 other locations,24.1k,24,1983 (43 yrs old)
+Paytm,3.2,FinTech | Jaipur +418 other locations,34k,514,
+Shriram Finance,4.0,NBFC | Jaipur +1110 other locations,15.2k,8,1979 (47 yrs old)
+Bajaj Finance,3.9,NBFC | Jaipur +965 other locations,22.7k,5.1k,1987 (39 yrs old)
+Equitas Small Finance Bank,4.4,Banking | Jaipur +479 other locations,13.2k,13,
+EXL Service,3.6,Analytics & KPO | Jaipur +63 other locations,44.1k,1.5k,
+Cipla,4.1,Pharma | Jaipur +291 other locations,26k,69,1935 (91 yrs old)
+Samsung,3.9,Consumer Electronics & Appliances | Jaipur +578 other locations,26.3k,28,1969 (57 yrs old)
+Ericsson,3.9,Telecom | Jaipur +162 other locations,42.6k,67,
+Dr. Reddy's,4.0,Pharma | Jaipur +213 other locations,,,
+Delhivery,3.8,Logistics | Jaipur +751 other locations,21.2k,171,2011 (15 yrs old)
+ICICI Prudential Life Insurance,4.0,Insurance | Jaipur +505 other locations,22.9k,510,2000 (26 yrs old)
+JPMorgan Chase & Co.,3.8,Financial Services | Jaipur +55 other locations,,,
+JSW Steel,3.9,Iron & Steel | Jaipur +193 other locations,30.3k,105,1982 (44 yrs old)
+HGS,3.7,BPO | Jaipur +121 other locations,20.9k,19,2000 (26 yrs old)
+Jana Small Finance Bank,3.8,Banking | Jaipur +419 other locations,14.1k,55,2006 (20 yrs old)
+Sun Pharmaceutical Industries,4.1,Pharma | Jaipur +264 other locations,23.4k,289,
+Ujjivan Small Finance Bank,4.0,Banking | Jaipur +533 other locations,13k,138,2017 (9 yrs old)
+Amazon Development Centre India,3.8,Internet | Jaipur +146 other locations,,,
+Hexaware Technologies,3.4,IT Services & Consulting | Jaipur +67 other locations,53.2k,594,1990 (36 yrs old)
+Lupin,4.1,Pharma | Jaipur +202 other locations,22.5k,32,
+L&T Construction,4.0,Engineering & Construction | Jaipur +433 other locations,,,
+Zydus Lifesciences,3.9,Pharma | Jaipur +176 other locations,19.9k,20,1952 (74 yrs old)
+Ekart Logistics,3.9,Logistics | Jaipur +736 other locations,15.8k,,2009 (17 yrs old)
+Hindustan Unilever,4.2,FMCG | Jaipur +531 other locations,20k,41,1872 (154 yrs old)
+KPMG India,3.4,Management Consulting | Jaipur +111 other locations,64.5k,56,1993 (33 yrs old)
+ITC,3.9,FMCG | Jaipur +375 other locations,24.4k,76,1910 (116 yrs old)
+Axis Max Life Insurance,4.0,Insurance | Jaipur +494 other locations,20k,145,2000 (26 yrs old)
+Megha Engineering & Infrastructures,3.9,Engineering & Construction | Jaipur +405 other locations,,,
+Tata Projects,4.2,Engineering & Construction | Jaipur +284 other locations,22k,29,
+Coforge,3.2,IT Services & Consulting | Jaipur +104 other locations,48.6k,122,
+Bajaj Life Insurance,3.9,Insurance | Jaipur +607 other locations,,,
+L&T Technology Services,3.1,IT Services & Consulting | Jaipur +93 other locations,,,
+Cholamandalam Investment & Finance,3.8,Financial Services | Jaipur +840 other locations,,,
+IIFL Finance,4.0,NBFC | Jaipur +800 other locations,14.1k,67,1995 (31 yrs old)
+Indian Army,4.7,Defence & Aerospace | Jaipur +364 other locations,9.5k,,1895 (131 yrs old)
+Muthoot Finance,3.7,NBFC | Jaipur +784 other locations,13k,82,
+JLL,4.1,Real Estate | Jaipur +85 other locations,24.2k,290,1999 (27 yrs old)
+HCL Group,3.5,IT Services & Consulting | Jaipur +97 other locations,3.7L,165,
+Piramal Finance,4.2,NBFC | Jaipur +424 other locations,12.6k,7,10k-50k
+Virtusa Consulting Services,3.7,IT Services & Consulting | Jaipur +55 other locations,56.3k,1.3k,1996 (30 yrs old)
+DMart,3.9,Retail | Jaipur +246 other locations,18.3k,181,2002 (24 yrs old)
+HSBC Group,3.9,Financial Services | Jaipur +63 other locations,42.6k,130,1865 (161 yrs old)
+Indiamart Intermesh,3.5,Internet | Jaipur +172 other locations,20.4k,525,1996 (30 yrs old)
+Udaan,3.9,Internet | Jaipur +368 other locations,15.6k,5,
+SMFG India Credit,3.9,NBFC | Jaipur +592 other locations,11.1k,80,2007 (19 yrs old)
+Aurobindo Pharma,4.0,Pharma | Jaipur +115 other locations,20.7k,23,1986 (40 yrs old)
+Siemens,3.9,Industrial Automation | Jaipur +152 other locations,33.5k,141,
+BigBasket,3.9,Internet | Jaipur +138 other locations,19.1k,100,
+Manappuram Finance,3.9,NBFC | Jaipur +647 other locations,9k,7,1949 (77 yrs old)
+Firstsource Solutions,3.5,BPO | Jaipur +74 other locations,24k,135,2001 (25 yrs old)
+Shapoorji Pallonji Group,4.1,Engineering & Construction | Jaipur +188 other locations,,,
+Tata Capital,4.0,NBFC | Jaipur +438 other locations,15.6k,3.1k,2007 (19 yrs old)
+GlobalLogic,3.5,IT Services & Consulting | Jaipur +60 other locations,40.5k,45,2000 (26 yrs old)
+ICICI Lombard General Insurance Company,3.5,Insurance | Jaipur +311 other locations,,,
+Standard Chartered,3.6,Banking | Jaipur +68 other locations,42k,,1853 (173 yrs old)
+Mahindra Finance,3.9,NBFC | Jaipur +730 other locations,12k,385,1991 (35 yrs old)
+PolicyBazaar,3.7,Internet | Jaipur +149 other locations,17.1k,412,
+Apollo Hospitals,4.1,Healthcare | Jaipur +229 other locations,16.3k,136,1983 (43 yrs old)
+Bosch Global Software Technologies,3.7,IT Services & Consulting | Jaipur +47 other locations,39.9k,13,1997 (29 yrs old)
+Ashok Leyland,4.0,Automobile | Jaipur +255 other locations,18.6k,,1948 (78 yrs old)
+Citicorp,3.7,Financial Services | Jaipur +68 other locations,51.8k,,1997 (29 yrs old)
+Swiggy,3.7,Internet | Jaipur +230 other locations,22.8k,274,2014 (12 yrs old)
+Hero MotoCorp,4.1,Automobile | Jaipur +364 other locations,15.7k,2,1984 (42 yrs old)
+Cyient,3.6,IT Services & Consulting | Jaipur +48 other locations,27.4k,78,1991 (35 yrs old)
+SBI Cards & Payment Services,3.6,Financial Services | Jaipur +435 other locations,,,
+Kalpataru Projects International,4.2,Engineering & Construction | Jaipur +321 other locations,13.6k,1,1981 (45 yrs old)
+JustDial,3.5,Internet | Jaipur +229 other locations,15.4k,51,1996 (30 yrs old)
+IQVIA,3.7,Clinical Research | Jaipur +63 other locations,30.6k,19,10k-50k
+NTT Data,3.8,IT Services & Consulting | Jaipur +79 other locations,35.8k,123,1988 (38 yrs old)
+SBI Life Insurance Company,3.7,Insurance | Jaipur +655 other locations,11.7k,5,2001 (25 yrs old)
+Nagarjuna Construction Company,4.0,Engineering & Construction | Jaipur +295 other locations,12k,10,1998 (28 yrs old)
+CBRE,4.1,Real Estate | Jaipur +91 other locations,18.6k,18,1906 (120 yrs old)
+TVS Motor,3.9,Automobile | Jaipur +349 other locations,15.8k,64,1979 (47 yrs old)
+Schneider Electric,4.2,Industrial Automation | Jaipur +119 other locations,24.3k,24,1999 (27 yrs old)
+Persistent Systems,3.6,IT Services & Consulting | Jaipur +41 other locations,44.5k,229,
+State Bank of India,3.8,Banking | Jaipur +617 other locations,11.5k,10,1806 (220 yrs old)
+vivo,4.1,Consumer Electronics & Appliances | Jaipur +414 other locations,12.9k,10,2009 (17 yrs old)
+Ecom Express,4.0,Logistics | Jaipur +775 other locations,9.6k,,2012 (14 yrs old)
+KEC International,4.0,Engineering & Construction | Jaipur +313 other locations,13.4k,4,1945 (81 yrs old)
+JBM Group,3.9,Auto Components | Jaipur +117 other locations,14k,41,
+Nagarro,3.9,IT Services & Consulting | Jaipur +49 other locations,32k,962,1996 (30 yrs old)
+Varun Beverages,4.0,Beverage | Jaipur +379 other locations,11.9k,36,1995 (31 yrs old)
+ITC Infotech,3.7,IT Services & Consulting | Jaipur +67 other locations,29.5k,84,2000 (26 yrs old)
+Home Credit Finance,4.0,NBFC | Jaipur +136 other locations,9.4k,104,2012 (14 yrs old)
+Bosch,4.1,Auto Components | Jaipur +130 other locations,20.7k,239,1886 (140 yrs old)
+Randstad,3.7,Recruitment | Jaipur +352 other locations,16.4k,9,1992 (34 yrs old)
+EY Global Delivery Services ( EY GDS),3.5,IT Services & Consulting | Jaipur +56 other locations,,,
+Hewlett Packard Enterprise,4.1,IT Services & Consulting | Jaipur +103 other locations,27.1k,218,2015 (11 yrs old)
+Mahindra Logistics,3.7,Logistics | Jaipur +233 other locations,2.8L,356,1986 (40 yrs old)
+Utkarsh Small Finance Bank,3.6,Banking | Jaipur +407 other locations,10.7k,21,2009 (17 yrs old)
+L&T Finance,3.9,NBFC | Jaipur +633 other locations,,,
+Aditya Birla Fashion and Retail,4.1,Fashion & Textile | Jaipur +292 other locations,13.1k,78,
+OPPO,3.9,Consumer Electronics & Appliances | Jaipur +410 other locations,11.8k,9,2004 (22 yrs old)
+Dell,3.8,Consumer Electronics & Appliances | Jaipur +117 other locations,28.8k,19,1984 (42 yrs old)
+CARS24,3.4,Internet | Jaipur +173 other locations,,,
+Havells,3.9,Electrical Equipment | Jaipur +260 other locations,15.6k,31,1983 (43 yrs old)
+Intas Pharmaceuticals,4.1,Pharma | Jaipur +148 other locations,17.3k,53,1977 (49 yrs old)
+R1 RCM,3.8,BPO | Jaipur +46 other locations,21.2k,154,2007 (19 yrs old)
+Tata AIA Life Insurance,3.9,Insurance | Jaipur +442 other locations,14.1k,690,2001 (25 yrs old)
+Hyundai Motor India Limited,4.1,Automobile | Jaipur +287 other locations,13.8k,4,1967 (59 yrs old)
+Deutsche Bank,3.8,Banking | Jaipur +42 other locations,36k,399,1870 (156 yrs old)
+Motilal Oswal Financial Services,3.7,Financial Services | Jaipur +168 other locations,12.9k,40,
+Team Lease,3.9,Recruitment | Jaipur +396 other locations,16k,,2016 (10 yrs old)
+Berger Paints,3.7,Chemicals | Jaipur +353 other locations,10k,114,
+VE Commercial Vehicles,3.9,Automobile | Jaipur +179 other locations,13.9k,8,2008 (18 yrs old)
+Lenskart,3.3,Internet | Jaipur +240 other locations,13.2k,122,
+Thermax Limited,4.2,Industrial Machinery | Jaipur +250 other locations,,,
+Bajaj Auto,3.8,Automobile | Jaipur +317 other locations,14.5k,,1945 (81 yrs old)
+Macleods Pharmaceuticals,3.7,Pharma | Jaipur +133 other locations,15.5k,10,1986 (40 yrs old)
+Aakash Educational Services,3.2,Education & Training | Jaipur +244 other locations,13.6k,66,1988 (38 yrs old)
+Kogta Financial India Limited,4.7,NBFC | Jaipur +259 other locations,1.8k,115,1996 (30 yrs old)
+Jubilant Foods Works,3.7,Hospitality | Jaipur +262 other locations,9.2k,189,1995 (31 yrs old)
+LG Electronics,3.9,Consumer Electronics & Appliances | Jaipur +298 other locations,11k,,1958 (68 yrs old)
+Royal Enfield,4.2,Automobile | Jaipur +373 other locations,14.8k,20,1901 (125 yrs old)
+Hindalco Industries,4.2,Metals & Mining | Jaipur +127 other locations,12.4k,5,1958 (68 yrs old)
+Jindal Steel Limited,3.9,Iron & Steel | Jaipur +172 other locations,15.3k,24,1979 (47 yrs old)
+HDFC Ergo General Insurance,4.0,Insurance | Jaipur +324 other locations,12k,10,2002 (24 yrs old)
+John Deere,4.0,Industrial Machinery | Jaipur +155 other locations,15.2k,1,2001 (25 yrs old)
+Tata Communications,3.9,Telecom | Jaipur +102 other locations,23.4k,34,1986 (40 yrs old)
+DCB Bank,3.8,Banking | Jaipur +341 other locations,9.4k,8,
+RBL Bank,3.5,Banking | Jaipur +284 other locations,18.3k,45,1943 (83 yrs old)
+Cummins,4.3,Industrial Machinery | Jaipur +114 other locations,15.6k,8,1919 (107 yrs old)
+Oyo Rooms,3.1,Internet | Jaipur +121 other locations,14.4k,129,2012 (14 yrs old)
+Pidilite Industries,4.2,Chemicals | Jaipur +312 other locations,11.4k,,
+Alembic Pharmaceuticals,3.9,Pharma | Jaipur +187 other locations,15.3k,67,1907 (119 yrs old)
+Reliance Communications,4.0,Telecom | Jaipur +467 other locations,9.6k,,2002 (24 yrs old)
+Publicis Sapient,3.4,IT Services & Consulting | Jaipur +46 other locations,30.9k,257,
+PVR INOX,3.9,Media & Entertainment | Jaipur +150 other locations,,,
+Subros,3.8,Auto Components | Jaipur +88 other locations,12.5k,1,1985 (41 yrs old)
+XpressBees,4.2,Logistics | Jaipur +474 other locations,8.2k,12,2015 (11 yrs old)
+American Express,4.1,Financial Services | Jaipur +53 other locations,24.5k,146,1850 (176 yrs old)
+Automatic Data Processing (ADP),3.9,Software Product | Jaipur +40 other locations,,,
+PNB MetLife,3.4,Insurance | Jaipur +424 other locations,8k,15,2001 (25 yrs old)
+Escorts Kubota Limited,4.1,Automobile | Jaipur +155 other locations,13.3k,3,
+Aditya Birla Sun Life Insurance,4.0,Insurance | Jaipur +488 other locations,9.9k,,2000 (26 yrs old)
+Aditya Birla Capital,3.8,NBFC | Jaipur +338 other locations,14.1k,1,2017 (9 yrs old)
+Grasim Industries,4.0,Building Material | Jaipur +241 other locations,12.7k,4,1947 (79 yrs old)
+Maersk,4.0,Logistics | Jaipur +49 other locations,18.9k,31,
+Synechron,3.5,IT Services & Consulting | Jaipur +32 other locations,27.9k,58,2001 (25 yrs old)
+Glenmark Pharmaceuticals,3.8,Pharma | Jaipur +184 other locations,12.1k,128,1977 (49 yrs old)
+Birlasoft,3.5,IT Services & Consulting | Jaipur +50 other locations,29.7k,444,1995 (31 yrs old)
+Godrej & Boyce Manufacturing,3.9,Consumer Electronics & Appliances | Jaipur +165 other locations,,,
+Dabur,3.8,FMCG | Jaipur +320 other locations,8.8k,23,1884 (142 yrs old)
+Samvardhana Motherson Group,3.7,Auto Components | Jaipur +93 other locations,12.1k,14,1986 (40 yrs old)
+Kotak Mahindara Life Insurance,3.5,Insurance | Jaipur +257 other locations,12.6k,195,2001 (25 yrs old)
+Cogent E Services,3.2,BPO | Jaipur +55 other locations,10.3k,1,2004 (22 yrs old)
+JK Cement,4.0,Building Material | Jaipur +326 other locations,10k,1,1975 (51 yrs old)
+Sodexo,4.0,Facility Management Services | Jaipur +156 other locations,9.7k,823,1966 (60 yrs old)
+KPIT Technologies,2.9,Software Product | Jaipur +44 other locations,22.9k,43,1990 (36 yrs old)
+Abbott,4.1,Pharma | Jaipur +214 other locations,11.6k,248,1910 (116 yrs old)
+Aarti Industries,4.1,Agro Chemicals | Jaipur +58 other locations,14.3k,10,1975 (51 yrs old)
+Reliance Projects & Property Management Services,4.0,Other | Jaipur +617 other locations,,,
+Ipca Laboratories,3.8,Pharma | Jaipur +160 other locations,11.5k,36,1949 (77 yrs old)
+Indian Oil Corporation,4.3,Oil & Gas | Jaipur +308 other locations,7.8k,,1959 (67 yrs old)
+Reliance Digital,4.2,Retail | Jaipur +378 other locations,8k,,2007 (19 yrs old)
+MRF Tyres,3.6,Auto Components | Jaipur +193 other locations,12.5k,19,1946 (80 yrs old)
+Alkem Laboratories,3.9,Pharma | Jaipur +196 other locations,9.8k,13,
+Johnson Controls,3.5,Industrial Automation | Jaipur +57 other locations,17.3k,5,
+Honda Motorcycle & Scooter,4.1,Automobile | Jaipur +299 other locations,,,
+IGT Solutions,3.2,BPO | Jaipur +47 other locations,13.5k,83,1998 (28 yrs old)
+PhonePe,4.1,FinTech | Jaipur +391 other locations,12.6k,30,2015 (11 yrs old)
+UNO Minda,3.9,Auto Components | Jaipur +109 other locations,11.2k,12,1958 (68 yrs old)
+Vishal Mega Mart,3.8,Retail | Jaipur +377 other locations,6.1k,6,2008 (18 yrs old)
+Hindustan Coca Cola Beverages,4.0,Beverage | Jaipur +258 other locations,7.6k,28,1997 (29 yrs old)
+ArcelorMittal Nippon Steel,4.1,Iron & Steel | Jaipur +86 other locations,11.7k,3,10k-50k
+Ford Motor,4.2,Automobile | Jaipur +130 other locations,15.1k,,1903 (123 yrs old)
+UBS,3.8,Financial Services | Jaipur +19 other locations,31.3k,2,1998 (28 yrs old)
+DTDC Express,3.7,Logistics | Jaipur +270 other locations,,,
+Bajaj General Insurance Limited,3.7,Insurance | Jaipur +303 other locations,10.7k,58,5k-10k

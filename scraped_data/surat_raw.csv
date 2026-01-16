@@ -1,0 +1,221 @@
+company_name,rating,bio,salary,job,founded_in
+TCS,3.3,IT Services & Consulting | Surat +438 other locations,9.7L,2.6k,1968 (58 yrs old)
+Accenture,3.7,IT Services & Consulting | Surat +254 other locations,6.5L,36.7k,1989 (37 yrs old)
+Wipro,3.6,IT Services & Consulting | Surat +370 other locations,4.8L,5.9k,1945 (81 yrs old)
+HDFC Bank,3.8,Banking | Surat +1821 other locations,1.5L,259,1994 (32 yrs old)
+Infosys,3.5,IT Services & Consulting | Surat +246 other locations,5.2L,2.6k,
+ICICI Bank,4.0,Banking | Surat +1436 other locations,1.5L,21,1994 (32 yrs old)
+HCLTech,3.4,IT Services & Consulting | Surat +226 other locations,3.7L,165,
+Tech Mahindra,3.4,IT Services & Consulting | Surat +331 other locations,2.8L,356,1986 (40 yrs old)
+Teleperformance,3.8,BPO | Surat +254 other locations,95.7k,1.2k,1978 (48 yrs old)
+Axis Bank,3.6,Banking | Surat +1498 other locations,1L,209,1993 (33 yrs old)
+Jio,4.4,Telecom | Surat +1893 other locations,62.1k,3,2018 (8 yrs old)
+Concentrix Corporation,3.6,BPO | Surat +179 other locations,1.3L,79,1983 (43 yrs old)
+Amazon,3.9,Internet | Surat +518 other locations,1.5L,1.6k,1994 (32 yrs old)
+iEnergizer,4.6,BPO | Surat +51 other locations,23.9k,69,
+Reliance Retail,3.9,Retail | Surat +1150 other locations,74.4k,158,2006 (20 yrs old)
+LTIMindtree,3.6,IT Services & Consulting | Surat +146 other locations,1.9L,447,1997 (29 yrs old)
+IBM,3.9,IT Services & Consulting | Surat +160 other locations,2.1L,293,1911 (115 yrs old)
+HDB Financial Services,3.9,NBFC | Surat +1089 other locations,50k,191,2007 (19 yrs old)
+Larsen & Toubro Limited,3.9,Engineering & Construction | Surat +754 other locations,,,
+Kotak Mahindra Bank,3.6,Banking | Surat +681 other locations,86.8k,67,
+Reliance Industries,4.0,Oil & Gas | Surat +812 other locations,72.4k,60,1977 (49 yrs old)
+Vodafone Idea,3.9,Telecom | Surat +704 other locations,50.3k,27,2018 (8 yrs old)
+Bharti Airtel,3.8,Telecom | Surat +789 other locations,48.9k,112,1952 (74 yrs old)
+BYJU'S,3.2,EdTech | Surat +321 other locations,53.6k,,2011 (15 yrs old)
+Tata Motors,4.1,Automobile | Surat +506 other locations,42.5k,172,1945 (81 yrs old)
+IDFC FIRST Bank,3.9,Banking | Surat +710 other locations,48.7k,31,
+IndusInd Bank,3.4,Banking | Surat +787 other locations,51.7k,146,
+AU Small Finance Bank,3.9,Banking | Surat +782 other locations,28.8k,45,1996 (30 yrs old)
+Flipkart,3.9,Internet | Surat +560 other locations,53.7k,171,2007 (19 yrs old)
+Bajaj Finserv,3.9,NBFC | Surat +1161 other locations,30.1k,4,2007 (19 yrs old)
+Muthoot FinCorp,4.5,NBFC | Surat +1087 other locations,9k,39,
+PwC,3.3,Management Consulting | Surat +132 other locations,1.2L,874,1880 (146 yrs old)
+Mahindra & Mahindra,4.0,Automobile | Surat +562 other locations,,,
+Infosys BPM,3.5,BPO | Surat +95 other locations,72.6k,102,2002 (24 yrs old)
+HDFC Life,3.9,Insurance | Surat +698 other locations,33.2k,123,
+Maruti Suzuki,4.2,Automobile | Surat +482 other locations,34.4k,698,1981 (45 yrs old)
+Bandhan Bank,3.7,Banking | Surat +995 other locations,25.4k,14,
+Conneqt Business Solutions,3.6,BPO | Surat +267 other locations,26.5k,361,2002 (24 yrs old)
+Yes Bank,3.7,Banking | Surat +540 other locations,43.3k,157,2004 (22 yrs old)
+Tata Steel,4.0,Iron & Steel | Surat +228 other locations,33.9k,,1907 (119 yrs old)
+Quess,3.8,Recruitment | Surat +740 other locations,30.4k,9,2007 (19 yrs old)
+Startek,3.1,BPO | Surat +107 other locations,24.4k,136,2017 (9 yrs old)
+Asian Paints,4.0,Chemicals | Surat +547 other locations,25.2k,60,
+UltraTech Cement,4.1,Building Material | Surat +534 other locations,24.1k,24,1983 (43 yrs old)
+Paytm,3.2,FinTech | Surat +418 other locations,34k,553,
+Shriram Finance,4.0,NBFC | Surat +1110 other locations,15.2k,8,1979 (47 yrs old)
+Bajaj Finance,3.9,NBFC | Surat +965 other locations,22.7k,5.1k,1987 (39 yrs old)
+Equitas Small Finance Bank,4.4,Banking | Surat +479 other locations,13.2k,13,
+Cipla,4.1,Pharma | Surat +291 other locations,26k,69,1935 (91 yrs old)
+Samsung,3.9,Consumer Electronics & Appliances | Surat +578 other locations,26.3k,28,1969 (57 yrs old)
+Ericsson,3.9,Telecom | Surat +162 other locations,42.6k,67,
+Wells Fargo,3.7,Financial Services | Surat +28 other locations,55.2k,179,
+Dr. Reddy's,4.0,Pharma | Surat +213 other locations,,,
+Delhivery,3.8,Logistics | Surat +751 other locations,21.2k,171,2011 (15 yrs old)
+ICICI Prudential Life Insurance,4.0,Insurance | Surat +505 other locations,22.9k,510,2000 (26 yrs old)
+HGS,3.7,BPO | Surat +121 other locations,20.9k,19,2000 (26 yrs old)
+Jana Small Finance Bank,3.8,Banking | Surat +419 other locations,14.1k,55,2006 (20 yrs old)
+Sun Pharmaceutical Industries,4.1,Pharma | Surat +264 other locations,23.4k,289,
+Ujjivan Small Finance Bank,4.0,Banking | Surat +533 other locations,13k,138,2017 (9 yrs old)
+Amazon Development Centre India,3.8,Internet | Surat +146 other locations,,,
+Hexaware Technologies,3.4,IT Services & Consulting | Surat +67 other locations,53.2k,606,1990 (36 yrs old)
+Lupin,4.1,Pharma | Surat +202 other locations,22.5k,32,
+L&T Construction,4.0,Engineering & Construction | Surat +433 other locations,,,
+Zydus Lifesciences,3.9,Pharma | Surat +176 other locations,19.9k,20,1952 (74 yrs old)
+Ekart Logistics,3.9,Logistics | Surat +736 other locations,15.8k,,2009 (17 yrs old)
+Hindustan Unilever,4.2,FMCG | Surat +531 other locations,20k,41,1872 (154 yrs old)
+KPMG India,3.4,Management Consulting | Surat +111 other locations,64.5k,56,1993 (33 yrs old)
+ITC,3.9,FMCG | Surat +375 other locations,24.4k,76,1910 (116 yrs old)
+Axis Max Life Insurance,4.0,Insurance | Surat +494 other locations,20k,145,2000 (26 yrs old)
+Megha Engineering & Infrastructures,3.9,Engineering & Construction | Surat +405 other locations,,,
+Tata Projects,4.2,Engineering & Construction | Surat +284 other locations,22k,29,
+Bajaj Life Insurance,3.9,Insurance | Surat +607 other locations,,,
+L&T Technology Services,3.1,IT Services & Consulting | Surat +93 other locations,,,
+Cholamandalam Investment & Finance,3.8,Financial Services | Surat +840 other locations,,,
+IIFL Finance,4.0,NBFC | Surat +800 other locations,14.1k,67,1995 (31 yrs old)
+Indian Army,4.7,Defence & Aerospace | Surat +364 other locations,9.5k,,1895 (131 yrs old)
+Muthoot Finance,3.7,NBFC | Surat +784 other locations,13k,82,
+JLL,4.1,Real Estate | Surat +85 other locations,24.2k,290,1999 (27 yrs old)
+Piramal Finance,4.2,NBFC | Surat +424 other locations,12.6k,7,10k-50k
+DMart,3.9,Retail | Surat +246 other locations,18.3k,181,2002 (24 yrs old)
+Indiamart Intermesh,3.5,Internet | Surat +172 other locations,20.4k,525,1996 (30 yrs old)
+Udaan,3.9,Internet | Surat +368 other locations,15.6k,5,
+SMFG India Credit,3.9,NBFC | Surat +592 other locations,11.1k,80,2007 (19 yrs old)
+Siemens,3.9,Industrial Automation | Surat +152 other locations,33.5k,141,
+BigBasket,3.9,Internet | Surat +138 other locations,19.1k,100,
+Manappuram Finance,3.9,NBFC | Surat +647 other locations,9k,7,1949 (77 yrs old)
+Shapoorji Pallonji Group,4.1,Engineering & Construction | Surat +188 other locations,,,
+Tata Capital,4.0,NBFC | Surat +438 other locations,15.6k,3.1k,2007 (19 yrs old)
+ICICI Lombard General Insurance Company,3.5,Insurance | Surat +311 other locations,,,
+Standard Chartered,3.6,Banking | Surat +68 other locations,42k,,1853 (173 yrs old)
+Mahindra Finance,3.9,NBFC | Surat +730 other locations,12k,385,1991 (35 yrs old)
+PolicyBazaar,3.7,Internet | Surat +149 other locations,17.1k,412,
+Apollo Hospitals,4.1,Healthcare | Surat +229 other locations,16.3k,136,1983 (43 yrs old)
+Ashok Leyland,4.0,Automobile | Surat +255 other locations,18.6k,,1948 (78 yrs old)
+Citicorp,3.7,Financial Services | Surat +68 other locations,51.8k,,1997 (29 yrs old)
+Swiggy,3.7,Internet | Surat +230 other locations,22.8k,274,2014 (12 yrs old)
+Hero MotoCorp,4.1,Automobile | Surat +364 other locations,15.7k,2,1984 (42 yrs old)
+Cyient,3.6,IT Services & Consulting | Surat +48 other locations,27.4k,78,1991 (35 yrs old)
+SBI Cards & Payment Services,3.6,Financial Services | Surat +435 other locations,,,
+Kalpataru Projects International,4.2,Engineering & Construction | Surat +321 other locations,13.6k,1,1981 (45 yrs old)
+JustDial,3.5,Internet | Surat +229 other locations,15.4k,51,1996 (30 yrs old)
+SBI Life Insurance Company,3.7,Insurance | Surat +655 other locations,11.7k,5,2001 (25 yrs old)
+Nagarjuna Construction Company,4.0,Engineering & Construction | Surat +295 other locations,12k,10,1998 (28 yrs old)
+CBRE,4.1,Real Estate | Surat +91 other locations,18.6k,18,1906 (120 yrs old)
+TVS Motor,3.9,Automobile | Surat +349 other locations,15.8k,64,1979 (47 yrs old)
+Schneider Electric,4.2,Industrial Automation | Surat +119 other locations,24.3k,24,1999 (27 yrs old)
+State Bank of India,3.8,Banking | Surat +617 other locations,11.5k,10,1806 (220 yrs old)
+vivo,4.1,Consumer Electronics & Appliances | Surat +414 other locations,12.9k,10,2009 (17 yrs old)
+Ecom Express,4.0,Logistics | Surat +775 other locations,9.6k,,2012 (14 yrs old)
+KEC International,4.0,Engineering & Construction | Surat +313 other locations,13.4k,4,1945 (81 yrs old)
+JBM Group,3.9,Auto Components | Surat +117 other locations,14k,41,
+Varun Beverages,4.0,Beverage | Surat +379 other locations,11.9k,36,1995 (31 yrs old)
+Home Credit Finance,4.0,NBFC | Surat +136 other locations,9.4k,104,2012 (14 yrs old)
+Bosch,4.1,Auto Components | Surat +130 other locations,20.7k,247,1886 (140 yrs old)
+Randstad,3.7,Recruitment | Surat +352 other locations,16.4k,9,1992 (34 yrs old)
+Hewlett Packard Enterprise,4.1,IT Services & Consulting | Surat +103 other locations,27.1k,218,2015 (11 yrs old)
+Mahindra Logistics,3.7,Logistics | Surat +233 other locations,2.8L,356,1986 (40 yrs old)
+Utkarsh Small Finance Bank,3.6,Banking | Surat +407 other locations,10.7k,21,2009 (17 yrs old)
+L&T Finance,3.9,NBFC | Surat +633 other locations,,,
+Aditya Birla Fashion and Retail,4.1,Fashion & Textile | Surat +292 other locations,13.1k,78,
+OPPO,3.9,Consumer Electronics & Appliances | Surat +410 other locations,11.8k,9,2004 (22 yrs old)
+Dell,3.8,Consumer Electronics & Appliances | Surat +117 other locations,28.8k,19,1984 (42 yrs old)
+CARS24,3.4,Internet | Surat +173 other locations,,,
+Havells,3.9,Electrical Equipment | Surat +260 other locations,15.6k,31,1983 (43 yrs old)
+Intas Pharmaceuticals,4.1,Pharma | Surat +148 other locations,17.3k,53,1977 (49 yrs old)
+Tata AIA Life Insurance,3.9,Insurance | Surat +442 other locations,14.1k,690,2001 (25 yrs old)
+Hyundai Motor India Limited,4.1,Automobile | Surat +287 other locations,13.8k,4,1967 (59 yrs old)
+Deutsche Bank,3.8,Banking | Surat +42 other locations,36k,399,1870 (156 yrs old)
+Motilal Oswal Financial Services,3.7,Financial Services | Surat +168 other locations,12.9k,40,
+Team Lease,3.9,Recruitment | Surat +396 other locations,16k,,2016 (10 yrs old)
+Berger Paints,3.7,Chemicals | Surat +353 other locations,10k,114,
+VE Commercial Vehicles,3.9,Automobile | Surat +179 other locations,13.9k,8,2008 (18 yrs old)
+Lenskart,3.3,Internet | Surat +240 other locations,13.2k,122,
+Thermax Limited,4.2,Industrial Machinery | Surat +250 other locations,,,
+Bajaj Auto,3.8,Automobile | Surat +317 other locations,14.5k,,1945 (81 yrs old)
+Macleods Pharmaceuticals,3.7,Pharma | Surat +133 other locations,15.5k,10,1986 (40 yrs old)
+Aakash Educational Services,3.2,Education & Training | Surat +244 other locations,13.6k,66,1988 (38 yrs old)
+Kogta Financial India Limited,4.7,NBFC | Surat +259 other locations,1.8k,115,1996 (30 yrs old)
+Jubilant Foods Works,3.7,Hospitality | Surat +262 other locations,9.2k,189,1995 (31 yrs old)
+LG Electronics,3.9,Consumer Electronics & Appliances | Surat +298 other locations,11k,,1958 (68 yrs old)
+Royal Enfield,4.2,Automobile | Surat +373 other locations,14.8k,20,1901 (125 yrs old)
+Hindalco Industries,4.2,Metals & Mining | Surat +127 other locations,12.4k,5,1958 (68 yrs old)
+Jindal Steel Limited,3.9,Iron & Steel | Surat +172 other locations,15.3k,24,1979 (47 yrs old)
+HDFC Ergo General Insurance,4.0,Insurance | Surat +324 other locations,12k,10,2002 (24 yrs old)
+John Deere,4.0,Industrial Machinery | Surat +155 other locations,15.2k,1,2001 (25 yrs old)
+Tata Communications,3.9,Telecom | Surat +102 other locations,23.4k,34,1986 (40 yrs old)
+DCB Bank,3.8,Banking | Surat +341 other locations,9.4k,8,
+RBL Bank,3.5,Banking | Surat +284 other locations,18.3k,45,1943 (83 yrs old)
+Cummins,4.3,Industrial Machinery | Surat +114 other locations,15.6k,8,1919 (107 yrs old)
+Oyo Rooms,3.1,Internet | Surat +121 other locations,14.4k,129,2012 (14 yrs old)
+Pidilite Industries,4.2,Chemicals | Surat +312 other locations,11.4k,,
+Alembic Pharmaceuticals,3.9,Pharma | Surat +187 other locations,15.3k,67,1907 (119 yrs old)
+Reliance Communications,4.0,Telecom | Surat +467 other locations,9.6k,,2002 (24 yrs old)
+Publicis Sapient,3.4,IT Services & Consulting | Surat +46 other locations,30.9k,257,
+PVR INOX,3.9,Media & Entertainment | Surat +150 other locations,,,
+Subros,3.8,Auto Components | Surat +88 other locations,12.5k,1,1985 (41 yrs old)
+XpressBees,4.2,Logistics | Surat +474 other locations,8.2k,12,2015 (11 yrs old)
+American Express,4.1,Financial Services | Surat +53 other locations,24.5k,146,1850 (176 yrs old)
+PNB MetLife,3.4,Insurance | Surat +424 other locations,8k,15,2001 (25 yrs old)
+Escorts Kubota Limited,4.1,Automobile | Surat +155 other locations,13.3k,3,
+Aditya Birla Sun Life Insurance,4.0,Insurance | Surat +488 other locations,9.9k,,2000 (26 yrs old)
+Aditya Birla Capital,3.8,NBFC | Surat +338 other locations,14.1k,1,2017 (9 yrs old)
+Grasim Industries,4.0,Building Material | Surat +241 other locations,12.7k,4,1947 (79 yrs old)
+Maersk,4.0,Logistics | Surat +49 other locations,18.9k,31,
+Glenmark Pharmaceuticals,3.8,Pharma | Surat +184 other locations,12.1k,128,1977 (49 yrs old)
+Birlasoft,3.5,IT Services & Consulting | Surat +50 other locations,29.7k,444,1995 (31 yrs old)
+Godrej & Boyce Manufacturing,3.9,Consumer Electronics & Appliances | Surat +165 other locations,,,
+Dabur,3.8,FMCG | Surat +320 other locations,8.8k,23,1884 (142 yrs old)
+Kotak Mahindara Life Insurance,3.5,Insurance | Surat +257 other locations,12.6k,195,2001 (25 yrs old)
+JK Cement,4.0,Building Material | Surat +326 other locations,10k,1,1975 (51 yrs old)
+Sodexo,4.0,Facility Management Services | Surat +156 other locations,9.7k,823,1966 (60 yrs old)
+Bharat Electronics,4.2,Electronics Manufacturing | Surat +87 other locations,12.3k,,1954 (72 yrs old)
+Abbott,4.1,Pharma | Surat +214 other locations,11.6k,248,1910 (116 yrs old)
+Aarti Industries,4.1,Agro Chemicals | Surat +58 other locations,14.3k,10,1975 (51 yrs old)
+Reliance Projects & Property Management Services,4.0,Other | Surat +617 other locations,,,
+Ipca Laboratories,3.8,Pharma | Surat +160 other locations,11.5k,36,1949 (77 yrs old)
+Indian Oil Corporation,4.3,Oil & Gas | Surat +308 other locations,7.8k,,1959 (67 yrs old)
+Reliance Digital,4.2,Retail | Surat +378 other locations,8k,,2007 (19 yrs old)
+MRF Tyres,3.6,Auto Components | Surat +193 other locations,12.5k,19,1946 (80 yrs old)
+Alkem Laboratories,3.9,Pharma | Surat +196 other locations,9.8k,13,
+Honda Motorcycle & Scooter,4.1,Automobile | Surat +299 other locations,,,
+PhonePe,4.1,FinTech | Surat +391 other locations,12.6k,30,2015 (11 yrs old)
+Hindustan Coca Cola Beverages,4.0,Beverage | Surat +258 other locations,7.6k,28,1997 (29 yrs old)
+ArcelorMittal Nippon Steel,4.1,Iron & Steel | Surat +86 other locations,11.7k,3,10k-50k
+Ford Motor,4.2,Automobile | Surat +130 other locations,15.1k,,1903 (123 yrs old)
+DTDC Express,3.7,Logistics | Surat +270 other locations,,,
+Bajaj General Insurance Limited,3.7,Insurance | Surat +303 other locations,10.7k,58,5k-10k
+Reliance Nippon Life Insurance,3.4,Insurance | Surat +483 other locations,8.4k,3,2000 (26 yrs old)
+Ceat Tyres,3.9,Auto Components | Surat +140 other locations,12.8k,6,1958 (68 yrs old)
+ABB,4.1,Industrial Machinery | Surat +107 other locations,17.7k,98,
+RSPL Group,4.1,FMCG | Surat +256 other locations,9.5k,33,1987 (39 yrs old)
+HARMAN,3.8,Consumer Electronics & Appliances | Surat +42 other locations,24k,114,2009 (17 yrs old)
+Blinkit,3.7,Internet | Surat +145 other locations,12.4k,,2013 (13 yrs old)
+NatWest Group,4.0,Banking | Surat +29 other locations,20.8k,66,10k-50k
+TVS Credit Services Ltd,4.2,NBFC | Surat +423 other locations,7.4k,29,
+InterGlobe Aviation,3.5,Aviation | Surat +104 other locations,13.5k,83,1998 (28 yrs old)
+Niva Bupa Health Insurance Company,4.1,Insurance | Surat +319 other locations,,,
+Alstom Transportation,3.7,Engineering & Construction | Surat +80 other locations,14.8k,330,1928 (98 yrs old)
+Croma,3.8,Retail | Surat +191 other locations,9k,17,
+Allcargo Logistics,3.8,Logistics | Surat +175 other locations,6.9k,20,1993 (33 yrs old)
+Tata AIG,4.0,Insurance | Surat +260 other locations,11.3k,91,2000 (26 yrs old)
+UPL,4.1,Agro Chemicals | Surat +186 other locations,11.1k,39,1969 (57 yrs old)
+Amazon Transportation Services,4.2,Logistics | Surat +228 other locations,8.2k,,2012 (14 yrs old)
+PepsiCo,4.0,Food Processing | Surat +275 other locations,13.1k,355,1965 (61 yrs old)
+Titan Company,4.2,Retail | Surat +182 other locations,9.5k,74,1984 (42 yrs old)
+Dilip Buildcon,3.9,Engineering & Construction | Surat +225 other locations,8.2k,15,1987 (39 yrs old)
+Mankind Pharma,3.8,Pharma | Surat +246 other locations,9.3k,8,
+Future Group,4.2,Retail | Surat +208 other locations,6.8k,,2013 (13 yrs old)
+S&P Global,4.0,Analytics & KPO | Surat +47 other locations,,,
+Afcons Infrastructure,4.2,Engineering & Construction | Surat +121 other locations,8.5k,32,1959 (67 yrs old)
+Torrent Pharmaceuticals,4.0,Pharma | Surat +129 other locations,10.2k,30,
+CMS IT Services,3.1,IT Services & Consulting | Surat +152 other locations,9.4k,53,2014 (12 yrs old)
+I Process Services,3.8,Recruitment | Surat +405 other locations,5.3k,2,2005 (21 yrs old)
+IDFC FIRST Bharat,4.2,Financial Services | Surat +421 other locations,4.8k,4,2016 (10 yrs old)
+ACC,3.9,Building Material | Surat +273 other locations,9.3k,,1936 (90 yrs old)
+HDFC Sales,3.9,Financial Services | Surat +345 other locations,8.4k,6,2004 (22 yrs old)
+DS Group,4.1,FMCG | Surat +281 other locations,7.6k,37,1929 (97 yrs old)
+ESAF Small Finance Bank,3.6,Banking | Surat +438 other locations,7.5k,41,2016 (10 yrs old)
+Shoppers Stop,4.0,Retail | Surat +83 other locations,6.9k,14,1991 (35 yrs old)
+Ola Electric Mobility,3.4,Automobile | Surat +419 other locations,9.2k,,2017 (9 yrs old)
