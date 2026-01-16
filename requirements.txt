@@ -4,3 +4,5 @@ pandas
 numpy
 beautifulsoup4
 requests
+matplotlib
+
