@@ -8,3 +8,10 @@ instance/
 .DS_Store
 *.csv
 scraped_data/
+Flask
+gunicorn
+pandas
+numpy
+requests
+beautifulsoup4
+matplotlib
