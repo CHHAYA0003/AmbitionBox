@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ambition Box Job Analysis</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="main-split">
+
+    <div class="left-side">
+        <h1>Unlock Job Market<br>Insights 💼</h1>
+    </div>
+
+    <div class="right-side">
+        <div class="card">
+            <h2>Ambition Box Job Analysis</h2>
+
+            <form action="/submit" method="POST">
+
+                <label>Location</label>
+                <select name="Location" required>
+                    <option value="">Select City</option>
+                    {% for city in locations %}
+                        <option value="{{ city }}">{{ city }}</option>
+                    {% endfor %}
+                </select>
+
+                <label>Industry</label>
+                <select name="industry" required>
+                    <option value="">Select Industry</option>
+                    {% for ind in industries %}
+                        <option value="{{ ind }}">{{ ind }}</option>
+                    {% endfor %}
+                </select>
+
+                <label>Rating (Minimum)</label>
+                <select name="rating" required>
+                    <option value="">Select Rating</option>
+                    <option value="1">1+</option>
+                    <option value="2">2+</option>
+                    <option value="3">3+</option>
+                    <option value="4">4+</option>
+                </select>
+
+                <label>Select Output</label>
+
+                <div class="radio-row">
+                    <label><input type="radio" name="output" value="table" checked> Show Table</label>
+                    <label><input type="radio" name="output" value="visual"> Show Visualizations</label>
+                </div>
+
+                <button type="submit">SUBMIT ANALYSIS</button>
+            </form>
+
+            <p class="small-text">Analyze jobs by city, industry & rating</p>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
+
+

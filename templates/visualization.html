@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="viz-page">
+
+    <div class="viz-card">
+
+        <h2 class="viz-title">Data Visualization</h2>
+        <p class="viz-subtitle">Top companies & industries based on selected filters</p>
+
+        <div class="charts-wrap">
+
+            <div class="chart-box">
+                <h3>Top 10 Companies</h3>
+                <img src="{{ url_for('static', filename=chart1) }}" alt="Top Companies Chart">
+            </div>
+
+            {% if chart2 %}
+            <div class="chart-box">
+                <h3>Top 10 Industries</h3>
+                <img src="{{ url_for('static', filename=chart2) }}" alt="Top Industries Chart">
+            </div>
+            {% endif %}
+
+        </div>
+
+        <div class="viz-back">
+            <a href="/" class="back-btn">⬅ Back</a>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>

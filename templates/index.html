@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select City</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h2>Select City</h2>
+
+<form action="/results" method="post">
+    <select name="city" required>
+        {% for city in cities %}
+            <option value="{{ city }}">{{ city }}</option>
+        {% endfor %}
+    </select>
+
+    <br><br>
+    <button type="submit">Show Companies</button>
+</form>
+
+</body>
+</html>
